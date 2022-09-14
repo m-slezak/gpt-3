@@ -5,7 +5,7 @@ import './brand.css';
 
 const Brand = () => {
   return (
-    <div className="gpt3__brand section__padding" >
+    <div className="gpt3__brand section-padding" >
       <div><img src={ google } alt="google"/></div>
       <div><img src={ slack } alt="slack"/></div>
       <div><img src={ atlassian } alt="atlassian"/></div>
